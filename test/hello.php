@@ -2,6 +2,6 @@
 
 
 $a=50;
-$c="lnlnlm";
+$c="lnlnlmd";
 $b="hell";
 ?>
