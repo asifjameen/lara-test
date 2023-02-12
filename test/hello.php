@@ -1,7 +1,7 @@
 <?php
 
 
-$a=500;
+$a=5002;
 
 $c="lnlnlmd";
 $b="hell";
