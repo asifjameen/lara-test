@@ -1,6 +1,6 @@
 <?php
 
-$a="smlmalms";
+$a="hello";
 $c="lnlnlmd";
 $b="hell";
 ?>
